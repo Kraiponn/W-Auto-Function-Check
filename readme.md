@@ -6,7 +6,7 @@
 
 <div style="width:100%; margin-top:3rem;display:flex;justify-content:center;">
   <image 
-    src="./documents/images/apprunner.JPG"
+    src="./documents/images/apprunner.jpg"
     alt="logo"
     width="650px"
     height="400px"
