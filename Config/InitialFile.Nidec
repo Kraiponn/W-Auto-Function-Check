@@ -1,0 +1,30 @@
+[DATE-WORKING]
+Date=20130821
+[CONFIG COMPORT]
+BaudRate Box=9600
+BaudRate Box_add=2
+ComPort Box=4
+ComPort Box_add=0
+[## SPEC CONTROL ##]
+Coil1_Upper=1
+Coil1_Lower=2
+Coil2_Upper=3
+Coil12_Lower=4
+Diaph Vm Min=1
+Diaph Vm Max=2
+Diaph Slow Up_Low=25
+Pulse R0=100
+Pulse R1=99
+Pulse R2=25
+Pulse R3=3
+Pulse R4=4
+Pulse R5=5
+Pulse R6=6
+Pulse R7=7
+Pulse R8=8
+Pulse R9=25
+Volte Typical=1
+Volte Minimum=2
+Rotery-Step=3
+Av-Min=0
+Av-Max=-0.2

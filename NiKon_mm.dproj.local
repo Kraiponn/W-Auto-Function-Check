@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/06/20 19:41:26.374.pas,C:\Documents and Settings\kraipon-na\My Documents\RAD Studio\Projects\Unit1.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Nikon_Model.pas</Transaction>
+    <Transaction>2013/06/20 19:41:26.374.dfm,C:\Documents and Settings\kraipon-na\My Documents\RAD Studio\Projects\Unit1.dfm=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Nikon_Model.dfm</Transaction>
+    <Transaction>2013/06/20 19:41:38.358.dproj,C:\Documents and Settings\kraipon-na\My Documents\RAD Studio\Projects\Project2.dproj=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\NiKon_mm.dproj</Transaction>
+    <Transaction>2013/06/21 11:54:35.417.pas,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit2.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\SpecControl.pas</Transaction>
+    <Transaction>2013/06/21 11:54:35.417.dfm,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit2.dfm=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\SpecControl.dfm</Transaction>
+    <Transaction>2013/06/21 14:04:13.218.pas,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit2.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\All_Image.pas</Transaction>
+    <Transaction>2013/06/21 14:04:13.218.dfm,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit2.dfm=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\All_Image.dfm</Transaction>
+    <Transaction>2013/06/25 13:24:19.532.pas,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit1.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Gb_func.pas</Transaction>
+    <Transaction>2013/06/25 13:54:19.414.pas,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit1.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Gb_param.pas</Transaction>
+    <Transaction>2013/06/27 16:12:44.501.pas,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit1.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Gb_Graph_Func.pas</Transaction>
+    <Transaction>2013/07/01 20:05:48.537.pas,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit1.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\ComPort.pas</Transaction>
+    <Transaction>2013/07/01 20:05:48.568.dfm,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit1.dfm=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\ComPort.dfm</Transaction>
+    <Transaction>2013/07/01 21:20:35.470.pas,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit1.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\m_Module.pas</Transaction>
+    <Transaction>2013/07/01 21:20:35.470.dfm,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit1.dfm=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\m_Module.dfm</Transaction>
+    <Transaction>2013/07/03 09:30:16.148.pas,C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Unit1.pas=C:\My_Wotks\Project\New Program 2012 Update\New Model\AAAAAAAAAAAAAAAAAA\Config_File.pas</Transaction>
+  </Transactions>
+</BorlandProject>
